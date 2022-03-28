@@ -125,18 +125,3 @@ public class Controlls {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
